@@ -299,15 +299,16 @@ header {
 }
 
 footer {
-    width: 100%;
+    width: 90%;
     position: relative;
     top: 100px;
     height: 40px;
-    margin-left: -90px;
+    margin-left: -20px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
     border-top: 1px solid rgb(161, 141, 141);
+   
 }
 .icons {
     color: #fff;
